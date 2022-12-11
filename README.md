@@ -8,6 +8,7 @@ Steganografi adalah teknik atau ilmu yang mempelajari cara untuk menyembunyikan 
 
 <p align="center">
   <img src="config/sample2.png" />
-  </b>
-source: Amazon - The Boys
+</p>
+<p align="center">
+  Source: Amazon - The Boys
 </p>
